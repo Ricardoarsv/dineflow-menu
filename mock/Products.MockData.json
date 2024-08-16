@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "status": "disponible",
+    "price": 15.99,
+    "calification": 4.5,
+    "name": "Tacos al Pastor",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 2,
+    "status": "disponible",
+    "price": 12.5,
+    "calification": 4.0,
+    "name": "Sushi Rolls",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 3,
+    "status": "no disponible",
+    "price": 8.99,
+    "calification": 4.7,
+    "name": "Ensalada César",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 4,
+    "status": "disponible",
+    "price": 10.5,
+    "calification": 4.8,
+    "name": "Pizza Margherita",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 5,
+    "status": "disponible",
+    "price": 13.75,
+    "calification": 4.6,
+    "name": "Paella Valenciana",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 6,
+    "status": "disponible",
+    "price": 11.2,
+    "calification": 4.5,
+    "name": "Burguer Clásica",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 7,
+    "status": "disponible",
+    "price": 9.99,
+    "calification": 4.2,
+    "name": "Falafel Wrap",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 8,
+    "status": "disponible",
+    "price": 14.5,
+    "calification": 4.9,
+    "name": "Ceviche de Pescado",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 9,
+    "status": "no disponible",
+    "price": 7.5,
+    "calification": 4.1,
+    "name": "Tortilla Española",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 10,
+    "status": "disponible",
+    "price": 10.0,
+    "calification": 4.3,
+    "name": "Pasta Carbonara",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 11,
+    "status": "disponible",
+    "price": 18.0,
+    "calification": 4.8,
+    "name": "Ramen Tonkotsu",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 12,
+    "status": "disponible",
+    "price": 16.5,
+    "calification": 4.6,
+    "name": "Churrasco",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 13,
+    "status": "disponible",
+    "price": 12.0,
+    "calification": 4.4,
+    "name": "Biryani de Pollo",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 14,
+    "status": "disponible",
+    "price": 8.5,
+    "calification": 4.3,
+    "name": "Hummus con Pan Pita",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 15,
+    "status": "disponible",
+    "price": 14.0,
+    "calification": 4.7,
+    "name": "Pancakes con Miel",
+    "image": "",
+    "category": "desayunos"
+  },
+  {
+    "id": 16,
+    "status": "disponible",
+    "price": 9.0,
+    "calification": 4.2,
+    "name": "Chili con Carne",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 17,
+    "status": "disponible",
+    "price": 13.0,
+    "calification": 4.5,
+    "name": "Gnocchi al Pesto",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 18,
+    "status": "disponible",
+    "price": 20.0,
+    "calification": 4.9,
+    "name": "Langosta a la Parrilla",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 19,
+    "status": "disponible",
+    "price": 11.5,
+    "calification": 4.6,
+    "name": "Poke Bowl de Atún",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 20,
+    "status": "disponible",
+    "price": 8.75,
+    "calification": 4.4,
+    "name": "Bocadillo de Jamón",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 21,
+    "status": "disponible",
+    "price": 15.25,
+    "calification": 4.8,
+    "name": "Crepas de Nutella",
+    "image": "",
+    "category": "postres"
+  },
+  {
+    "id": 22,
+    "status": "disponible",
+    "price": 10.25,
+    "calification": 4.3,
+    "name": "Sopa de Lentejas",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 23,
+    "status": "disponible",
+    "price": 19.0,
+    "calification": 4.7,
+    "name": "Cordero Asado",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 24,
+    "status": "no disponible",
+    "price": 7.75,
+    "calification": 4.1,
+    "name": "Sándwich de Pollo",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 25,
+    "status": "disponible",
+    "price": 22.5,
+    "calification": 4.9,
+    "name": "Filete Mignon",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 26,
+    "status": "disponible",
+    "price": 14.75,
+    "calification": 4.8,
+    "name": "Tortas de Chorizo",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 27,
+    "status": "disponible",
+    "price": 9.25,
+    "calification": 4.4,
+    "name": "Brownie de Chocolate",
+    "image": "",
+    "category": "postres"
+  },
+  {
+    "id": 28,
+    "status": "no disponible",
+    "price": 6.5,
+    "calification": 3.9,
+    "name": "Gazpacho",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 29,
+    "status": "disponible",
+    "price": 11.99,
+    "calification": 4.6,
+    "name": "Kebab de Pollo",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 30,
+    "status": "disponible",
+    "price": 13.5,
+    "calification": 4.5,
+    "name": "Tortellini al Pesto",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 31,
+    "status": "disponible",
+    "price": 9.0,
+    "calification": 4.3,
+    "name": "Ensalada de Frutas",
+    "image": "",
+    "category": "postres"
+  },
+  {
+    "id": 32,
+    "status": "disponible",
+    "price": 10.5,
+    "calification": 4.2,
+    "name": "Curry de Garbanzos",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 33,
+    "status": "disponible",
+    "price": 15.99,
+    "calification": 4.7,
+    "name": "Camarones al Ajillo",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 34,
+    "status": "disponible",
+    "price": 8.0,
+    "calification": 4.1,
+    "name": "Churros con Chocolate",
+    "image": "",
+    "category": "postres"
+  },
+  {
+    "id": 35,
+    "status": "disponible",
+    "price": 12.25,
+    "calification": 4.5,
+    "name": "Pasta Alfredo",
+    "image": "",
+    "category": "almuerzos"
+  },
+  {
+    "id": 36,
+    "status": "disponible",
+    "price": 18.75,
+    "calification": 4.9,
+    "name": "Steak Tartar",
+    "image": "",
+    "category": "almuerzos"
+  }
+]
